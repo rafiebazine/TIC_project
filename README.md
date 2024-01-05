@@ -1,4 +1,4 @@
-Hello Professor BOUCHEKIR, this our work for the final project of TIC, each member has is own branch which he uploaded the file into, we hope do you like it.
+Hello Professor BOUCHEKIR, this is our work for the final project of TIC, each member has his branch where he uploaded a file, we hope do you like it.
 
 
 
