@@ -4,3 +4,5 @@ Our group ID is : Grp 92;
 
 Our group members are:
 Rafie BAZINE , "Matricule : 232339456012";
+
+Sofiane HAMAIDI , "Matricule : 232331164216";
